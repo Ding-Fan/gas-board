@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "projects": {
+    "gas-board": "apps/gas-board",
+    "gas-board-e2e": "apps/gas-board-e2e"
+  }
+}
